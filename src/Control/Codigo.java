@@ -199,6 +199,6 @@ private List<String> capturas=new ArrayList<>();
   JLabel imalabel=new JLabel(icon);
   panel.add(imalabel);
   }
-  JOptionPane.showMessageDialog(null, panel,"Imagenes tomadas",JOptionPane.INFORMATION_MESSAGE);
+  JOptionPane.showMessageDialog(null, panel,"Imagenes tomadas nuevas",JOptionPane.INFORMATION_MESSAGE);
   }
 }
